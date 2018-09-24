@@ -1,0 +1,2 @@
+# simplejournal
+WordPress Theme
